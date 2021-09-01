@@ -1,0 +1,8 @@
+{
+  "name": "baseCode",
+  "integrations": {
+    "capacitor": {},
+    "cordova": {}
+  },
+  "type": "angular"
+}
